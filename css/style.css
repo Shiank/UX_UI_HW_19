@@ -25,6 +25,11 @@ a{
 
 }
 
+.button-color{
+    color: white;
+    text-decoration: none;
+}
+
 a:hover{
     color: #A8763E;
 }
